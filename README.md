@@ -5,6 +5,8 @@
 ```commandline
 poetry run python bookkeeper
 ```
+Ссылка на видео:
+https://disk.yandex.ru/d/ud1dZKAqEbKWEQ
 
 [Техническое задание](specification.md)
 
