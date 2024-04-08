@@ -1,5 +1,5 @@
 """
-Описан класс, представляющий расходную операцию
+Класс, представляющий расходную операцию
 """
 
 from dataclasses import dataclass, field
@@ -13,7 +13,7 @@ class Expense:
     amount - сумма
     category - id категории расходов
     expense_date - дата расхода
-    added_date - дата добавления в бд
+    added_date - дата добавления
     comment - комментарий
     pk - id записи в базе данных
     """
